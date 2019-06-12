@@ -31,9 +31,8 @@ negative indexes can be used to copy from the end of an array
 // SLICE PROBLEM SET
 
 ar1 = [1,2,3,4,5]
-ar2 = [10,11,12,13,14]
 ar3 = ['a','b','c','d','e']
-ar4 = ['lambda', 'coding', 'school']
+
 
 // return an exact copy of a given array
 function one(ar) {
