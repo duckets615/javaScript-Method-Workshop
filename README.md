@@ -2,7 +2,7 @@
 
 What is this?
 
-    - Theres hardly anything javaScript cannot do. It can be implemented for a basic menial task like hamburger menus or used to build out entire, high level single page applications. Howerver, For a language to be this broad in its application, it must use hundreds of methods, tips, and tricks. So many that even the most advanced jS user cannot know them all. This repo is dedicated to familiarizing jS users with the many tools jS provides.
+    Theres hardly anything javaScript cannot do. It can be implemented for a basic menial task like hamburger menus or used to build out entire, high level single page applications. Howerver, For a language to be this broad in its application, it must use hundreds of methods, tips, and tricks. So many that even the most advanced jS user cannot know them all. This repo is dedicated to familiarizing jS users with the many tools jS provides.
 
 Who should use this?
     Any jS user looking to broaden their understaning of can make use of this repo but that target group is beginners to intermediate coders.
