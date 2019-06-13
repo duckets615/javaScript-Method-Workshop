@@ -14,4 +14,4 @@ To start, fork this repo to your repositories. This repo is broken up by object.
 
 ### What if I find an error or know of a better solution?
 
-Tell me! This is about inmproving our jS skills. All comments and pull request are welcome.
+Tell me! This is about inmproving our jS skills. The more input the better. All comments and pull request are welcome.
