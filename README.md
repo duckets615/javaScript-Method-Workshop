@@ -12,6 +12,12 @@ Any jS user looking to broaden their understaning of can make use of this repo b
 
 To start, fork this repo to your repositories. This repo is broken up by object. Every object (array, string, ect.) will have  subfolders of all the methods and properties available to it. Each method will have a problem set which consist of a brief description of the method and a number of code challenges to become familiar with using them. These challenges are simple and repetitive for the purpose of building muscle memory so that when your writing your own code, recognizing the best method to use and how to implement it in different situations will come as naturally as breathing. A solution file with the answers will also be included.
 
+### What is the best practices section?
+
+Optimzing your code for efficiency and keeping runtimes as fast as possible should always 
+factor into your code. Here you'll find some advice, tips & tricks from contributors,  
+snippets and some articles and blogs ect. to do just that.
+
 ### What if I find an error or know of a better solution?
 
 Tell me! This is about improving our jS skills. The more input the better. All comments and pull request are welcome.
