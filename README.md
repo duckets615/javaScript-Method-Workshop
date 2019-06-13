@@ -10,7 +10,7 @@ Any jS user looking to broaden their understaning of can make use of this repo b
 
 ### How do I use this?
 
-To start, fork this repo to your repositories. This repo is broken up by object. Every object (array, string, ect.) will have  subfolders of all the methods and properties available to it. Each method will have a problem set which consist of a brief description of the method and a number of code challenges to become familiar with using them. These challenges are simple and repetitive for the purpose of building muscle memory so that when your writing your own code recognizing the best method to use and how to implement in different situations to come as naturally as breathing. A solution file with the answers will also be included.
+To start, fork this repo to your repositories. This repo is broken up by object. Every object (array, string, ect.) will have  subfolders of all the methods and properties available to it. Each method will have a problem set which consist of a brief description of the method and a number of code challenges to become familiar with using them. These challenges are simple and repetitive for the purpose of building muscle memory so that when your writing your own code, recognizing the best method to use and how to implement in different situations will come as naturally as breathing. A solution file with the answers will also be included.
 
 ### What if I find an error or know of a better solution?
 
